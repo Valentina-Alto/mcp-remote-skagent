@@ -1,3 +1,8 @@
 .env
 notebook.ipynb
-app.py
+#app.py
+frontend.py
+__pycache__/
+.chainlit/
+.files/
+chainlit.md
